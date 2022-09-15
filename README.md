@@ -1,6 +1,6 @@
 # Arduino IDE Extension Installer
 
-Small program built with NodejS to install extensions in the new Arduino IDE (2.x)
+Small program built with NodeJS to install extensions in the new Arduino IDE (2.x)
 
 # Getting Started
 
